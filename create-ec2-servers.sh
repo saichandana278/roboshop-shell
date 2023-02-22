@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ##### Change these values ###
-##ZONE_ID="Z10222931JX8UJWRQ0JN9"
+ZONE_ID="Z10222931JX8UJWRQ0JN9"
 DOMAIN="chandusree.online"
 SG_NAME="allow-all"
 #############################
