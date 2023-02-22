@@ -12,6 +12,8 @@ cd /usr/share/nginx/html
 unzip /tmp/frontend.zip
 
 echo -e "\e[35mcoping Ngnix config for Roboshop\e[0m"
+pwd
+ls -l
 cp configs/ngnix-roboshop.conf /etc/nginx/default.d/roboshop.conf
 
 echo -e "\e[35mEnabling ngnix\e[0m"
